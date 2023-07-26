@@ -53,4 +53,4 @@ child_file_line_five
 9. You can unstage the incorrect changes with no damage to the file.
 10. If you right click the parent repo in the "Source Control Repositories" panel in the source control sidebar and [choose "Close Repository"](https://github.com/microsoft/vscode/assets/9263640/1c01b513-f059-4f67-a8be-91b3f28dab88), the issue no longer presents itself.
 
-![image](https://github.com/microsoft/vscode/assets/9263640/ec3d585e-b3df-4d1d-b23a-387b11065c09)
+![image](https://github.com/microsoft/vscode/assets/9263640/cf07cd80-0e13-4fc4-b3f3-7cf8cdf82c09)
